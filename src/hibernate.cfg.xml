@@ -25,5 +25,7 @@
 		<property name="format_sql">true</property>
 
 		<mapping class="model.Produto" />
+		<mapping class="model.Pessoa"/>
+		<mapping class="model.Endereco"/>
 	</session-factory>
 </hibernate-configuration>
